@@ -1,0 +1,2 @@
+# gstreamer
+understanding gsteamer
